@@ -5,3 +5,5 @@
 
 
 [:fairy:](/README.md)
+
+Текси шот <br>
