@@ -7,3 +7,5 @@
 [:fairy:](/README.md)
 
 Текси шот <br> dfbddb
+
+[На главную](README.md "Да, сюда")
