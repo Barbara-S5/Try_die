@@ -56,3 +56,6 @@ remote: Create a pull request for 'feat/diff' on GitHub by visiting:
 remote:      https://github.com/%ВАШ_АККАУНТ%/git-branches/pull/new/feature/merge-request 
 git pull - Забрать изменения из удалённого репозитория
   Перед созданием нового пул-реквеста считается хорошей практикой перейти в главную ветку, «подтянуть» в неё изменения, а затем добавить эти изменения в вашу ветку с помощью git merge main
+--no-ff - Fast-forward слияние веток можно отключить этим флагом (Например: git merge --no-ff add-docs)
+rebase -  операция позволяет изменить точку (коммит), от которой отделилась ветка
+git push --force - удалит последний коммит на ветви main
